@@ -88,11 +88,13 @@ Hotspot Detection & Visualization
 ## 🚀 How to Run
 
 ### Install Dependencies
-pip install -r requirements.txt
-
+```bash
+ pip install -r requirements.txt
+```
 ### Run the Pipeline
+```bash
 python main.py
-
+```
 ---
 
 ## 🛠 Technologies Used
