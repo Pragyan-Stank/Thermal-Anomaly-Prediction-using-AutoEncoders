@@ -1,4 +1,6 @@
 # 🔥 Thermal Anomaly Detection using Deep Autoencoders
+<img width="636" height="504" alt="download (2)" src="https://github.com/user-attachments/assets/96a9d15a-163b-4248-80d5-f4795b55ab4c" />
+
 
 A modular, unsupervised system for detecting thermal anomalies in infrared images using a convolutional autoencoder combined with classical thermal hotspot analysis.
 
