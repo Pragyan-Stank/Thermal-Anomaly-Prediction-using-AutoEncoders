@@ -40,22 +40,6 @@ This hybrid approach improves robustness, interpretability, and reliability.
 
 ---
 
-## 📁 Project Structure
-
-├── data.py        # Image loading, preprocessing, thermal statistics
-
-├── model.py       # Convolutional autoencoder definition
-
-├── train.py       # Training loop & anomaly scoring
-
-├── viz.py         # Visualization utilities
-
-├── main.py        # End-to-end pipeline orchestration
-
-└── requirements.txt
-
----
-
 ## ⚙️ Pipeline Flow
 
 Thermal Images
@@ -121,18 +105,4 @@ python main.py
 - Combines deep learning with explainable computer vision
 - Clean, maintainable, testable codebase
 
----
 
-## 🔮 Future Improvements
-
-- Model checkpointing & early stopping
-- Temporal anomaly detection for video streams
-- ONNX / TensorRT deployment
-- REST API for real-time inference
-- IoT thermal sensor integration
-
----
-
-## 📄 License
-
-Intended for educational, research, and prototype use.
