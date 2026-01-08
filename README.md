@@ -40,13 +40,16 @@ This hybrid approach improves robustness, interpretability, and reliability.
 
 ## 📁 Project Structure
 
-thermal_anomaly/
-│
 ├── data.py        # Image loading, preprocessing, thermal statistics
+
 ├── model.py       # Convolutional autoencoder definition
+
 ├── train.py       # Training loop & anomaly scoring
+
 ├── viz.py         # Visualization utilities
+
 ├── main.py        # End-to-end pipeline orchestration
+
 └── requirements.txt
 
 ---
@@ -82,6 +85,8 @@ Hotspot Detection & Visualization
   - Reconstruction
   - Pixel-wise anomaly heatmap
   - Hotspot overlay on original image
+  - 
+<img width="636" height="504" alt="download (1)" src="https://github.com/user-attachments/assets/1d17a829-d7b0-4acd-b768-a3555fae385d" />
 
 ---
 
