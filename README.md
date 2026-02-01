@@ -43,23 +43,23 @@ This hybrid approach improves robustness, interpretability, and reliability.
 ## ⚙️ Pipeline Flow
 
 Thermal Images
-
       ↓
+      
 Preprocessing (crop, grayscale, normalize)
-
       ↓
+      
 Autoencoder Training (normal data only)
-
       ↓
+      
 Reconstruction Error Scoring
-
       ↓
+      
 Dynamic Thresholding (percentile-based)
-
       ↓
+      
 Anomaly Classification
-
       ↓
+      
 Hotspot Detection & Visualization
 
 ---
